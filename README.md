@@ -1,5 +1,8 @@
 # Views Tools language morpher
 
+*This repository is meant as an archive for Views Morpher and isn't under active development anymore.
+It was originally published on https://github.com/viewstools/morph.*
+
 [![NPM package](https://img.shields.io/npm/v/@viewstools/morph.svg)](https://www.npmjs.com/package/@viewstools/morph)
 
 [Looking for Views Tools docs?](https://github.com/viewstools/docs)
